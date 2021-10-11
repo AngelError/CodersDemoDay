@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="AbsoluteLayout">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/e-olymp/postgresql-42.2.24.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/e-olymp/jdk-16.0.2_windows-x64_bin.zip!/" />
+      <root url="jar://C:/Program Files/NetBeans-12.4/netbeans/java/modules/ext/AbsoluteLayout.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
